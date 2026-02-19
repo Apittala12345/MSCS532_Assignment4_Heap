@@ -32,3 +32,7 @@ requirements.txt
 ```bash
 python src/heapsort.py
 ```
+### 2) Run Priority Queue
+```bash
+python src/priority_queue.py
+```
